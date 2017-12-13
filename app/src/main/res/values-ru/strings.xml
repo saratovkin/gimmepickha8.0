@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GimmePikcha</string>
+    <string name="action_settings">Найстройки</string>
+    <string name="title">Что найти? (из котов)</string>
+    <string name="no_title">Введите название!</string>
+    <string name="start">Приложение запущено!</string>
+    <string name="nothing">Нечего показывать!</string>
+</resources>
